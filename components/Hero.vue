@@ -1,7 +1,7 @@
 <template>
   <main>
     <div class="container flex justify-between items-center gap-14 py-8">
-      <img class="min-w-100" src="/assets/images/MainArticleImage.png" alt="article 1" width="600">
+      <img class="min-w-100" src="assets/images/MainArticleImage.png" alt="article 1" width="600">
       <div>
         <div>
           <h1 class="text-4xl font-bold leading-snug">Weekly Newsletter: Tweets for Higher Engagements</h1>
@@ -10,7 +10,7 @@
           </p>
         </div>
         <div class="flex items-center gap-4">
-          <img src="/assets/images/mainAvatar.png" alt="Jessica Andrews" width="60">
+          <img src="assets/images/mainAvatar.png" alt="Jessica Andrews" width="60">
           <div>
             <p class="font-bold">Jessica Andrews</p>
             <p class="text-grey">Content Manager</p>
