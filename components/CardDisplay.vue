@@ -1,6 +1,6 @@
 <template>
   <div>
-    <img class="w-full" :src="`/assets/images/${cardSection.blogImage}`" alt="image" width="400">
+    <img class="w-full" :src="`/static/assets/images/${cardSection.blogImage}`" alt="image" width="400">
     <h2 class="text-4xl font-bold py-6">{{ cardSection.title }}</h2>
     <p class="pb-4 text-xl text-grey">{{ cardSection.description }}</p>
     <div class="flex gap-4 items-center">
